@@ -12,7 +12,7 @@ export const projectsList = [
     name: 'Cocktail Finder',
     description: 'A website for finding cocktail recipes.',
     github: 'https://github.com/sashacozub/cocktail-finder',
-    demo: 'https://cocktail-finder-sc.netlify.app/',
+    demo: '',
     technologies: ['react', 'javascript', 'css'],
   },
   {
